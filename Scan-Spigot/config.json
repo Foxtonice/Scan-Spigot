@@ -1,0 +1,7 @@
+{
+  "delay": 1,
+  "delay_between_accounts": 2,
+  "max_pages": 10,
+  "timeout": 30,
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+}
